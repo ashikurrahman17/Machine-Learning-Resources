@@ -1,4 +1,3 @@
-# Here where datasets will be
 # 🤖 Machine Learning Resource Hub (CSE 21 Batch)
 
 ![ML](https://img.shields.io/badge/CSE%2021-Machine%20Learning-blue)
