@@ -1,4 +1,4 @@
-
+# Here where datasets will be
 # 🤖 Machine Learning Resource Hub (CSE 21 Batch)
 
 ![ML](https://img.shields.io/badge/CSE%2021-Machine%20Learning-blue)
@@ -15,7 +15,7 @@ This repository serves as a centralized learning hub for the **CSE 21 Batch Mach
 
 ---
 
-## 📚 Table of Contents
+## 📚 Course Navigation
 
 * [ML Class 01-06](#-ml-class-01-06)
 * [ML Class 07](#-ml-class-07)
@@ -27,9 +27,9 @@ This repository serves as a centralized learning hub for the **CSE 21 Batch Mach
 
 # 📖 ML Class 01-06
 
-### 📁 All Course Materials
+### 📁 Course Materials
 
-* [Google Drive Folder (All Topics)](https://drive.google.com/drive/folders/1__U6PilW4hy7FFYH34xSkTLaKvuNQJP_?usp=sharing)
+* [All Materials with Selected Topics](https://drive.google.com/drive/folders/1__U6PilW4hy7FFYH34xSkTLaKvuNQJP_?usp=sharing)
 
 ---
 
@@ -37,26 +37,34 @@ This repository serves as a centralized learning hub for the **CSE 21 Batch Mach
 
 ## Machine Learning Algorithms
 
-* 📘 [Algorithm Basic Overview](https://www.geeksforgeeks.org/machine-learning/machine-learning-algorithms/)
+| Resource Type | Link                                                                                                                        |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 📘 Theory     | [Machine Learning Algorithms (Basic Overview)](https://www.geeksforgeeks.org/machine-learning/machine-learning-algorithms/) |
 
 ---
 
 ## K-Nearest Neighbor (KNN)
 
-* 🎥 [KNN Algorithm Video](https://www.youtube.com/watch?v=97P-223p6K0)
+| Resource Type | Link                                                                  |
+| ------------- | --------------------------------------------------------------------- |
+| 🎥 Video      | [KNN Algorithm Tutorial](https://www.youtube.com/watch?v=97P-223p6K0) |
 
 ---
 
 ## Support Vector Machine (SVM)
 
-* 🎥 [SVM Video Lecture](https://www.youtube.com/watch?v=H9yACitf-KM)
+| Resource Type | Link                                                        |
+| ------------- | ----------------------------------------------------------- |
+| 🎥 Video      | [SVM Tutorial](https://www.youtube.com/watch?v=H9yACitf-KM) |
 
 ---
 
 ## Logistic Regression
 
-* 📘 [Theory Overview](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/)
-* 🎥 [Video Lecture](https://www.youtube.com/watch?v=GTKBkaEsLCg)
+| Resource Type | Link                                                                                                              |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 📘 Theory     | [Logistic Regression Overview](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/) |
+| 🎥 Video      | [Logistic Regression Tutorial](https://www.youtube.com/watch?v=GTKBkaEsLCg)                                       |
 
 ---
 
@@ -64,7 +72,9 @@ This repository serves as a centralized learning hub for the **CSE 21 Batch Mach
 
 ## K-Means Clustering
 
-* 🎥 [Video Lecture](https://www.youtube.com/watch?v=oQ5yRkoBN0M)
+| Resource Type | Link                                                                       |
+| ------------- | -------------------------------------------------------------------------- |
+| 🎥 Video      | [K-Means Clustering Tutorial](https://www.youtube.com/watch?v=oQ5yRkoBN0M) |
 
 ---
 
@@ -72,9 +82,11 @@ This repository serves as a centralized learning hub for the **CSE 21 Batch Mach
 
 ## Pattern Recognition
 
-* 📄 Course Sheet (Available in Drive)
-* 📝 [Practice Problems (BYJU’S)](https://byjus.com/maths/patterns-questions/)
-* 📘 [Theory: Definition, Steps, Advantages, Disadvantages & Applications](https://www.geeksforgeeks.org/machine-learning/pattern-recognition-introduction/)
+| Resource Type        | Link                                                                                                                                                                 |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📄 Sheet             | Available in the Drive Folder                                                                                                                                        |
+| 📝 Practice Problems | [Pattern Recognition Problems (BYJU'S)](https://byjus.com/maths/patterns-questions/)                                                                                 |
+| 📘 Theory            | [Pattern Recognition: Definition, Steps, Advantages, Disadvantages & Applications](https://www.geeksforgeeks.org/machine-learning/pattern-recognition-introduction/) |
 
 ---
 
@@ -82,44 +94,66 @@ This repository serves as a centralized learning hub for the **CSE 21 Batch Mach
 
 ## DBSCAN Clustering
 
-* 📘 [Theory](https://www.geeksforgeeks.org/machine-learning/dbscan-clustering-in-ml-density-based-clustering/)
-* 🎥 [Problem Solved Video](https://www.youtube.com/watch?v=WxXnDMrC8TM)
+| Resource Type | Link                                                                                                                  |
+| ------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 📘 Theory     | [DBSCAN Clustering](https://www.geeksforgeeks.org/machine-learning/dbscan-clustering-in-ml-density-based-clustering/) |
+| 🎥 Video      | [DBSCAN Problem Solved](https://www.youtube.com/watch?v=WxXnDMrC8TM)                                                  |
 
 ---
 
 ## Apriori Algorithm
 
-* 📘 [Theory](https://www.geeksforgeeks.org/machine-learning/apriori-algorithm/)
-* 🎥 [Math Solved Video](https://www.youtube.com/watch?v=QEqBTLB-tM4)
+| Resource Type | Link                                                                                   |
+| ------------- | -------------------------------------------------------------------------------------- |
+| 📘 Theory     | [Apriori Algorithm](https://www.geeksforgeeks.org/machine-learning/apriori-algorithm/) |
+| 🎥 Video      | [Apriori Algorithm Math Solved](https://www.youtube.com/watch?v=QEqBTLB-tM4)           |
 
 ---
 
 ## FP-Growth Algorithm
 
-* 📘 [Theory](https://www.geeksforgeeks.org/machine-learning/frequent-pattern-growth-algorithm/)
-* 🎥 [Example Video](https://www.youtube.com/watch?v=iwU0uzT7Y9U)
+| Resource Type | Link                                                                                                     |
+| ------------- | -------------------------------------------------------------------------------------------------------- |
+| 📘 Theory     | [FP-Growth Algorithm](https://www.geeksforgeeks.org/machine-learning/frequent-pattern-growth-algorithm/) |
+| 🎥 Video      | [FP-Growth Algorithm Example](https://www.youtube.com/watch?v=iwU0uzT7Y9U)                               |
 
 ---
 
 ## Random Forest
 
-* 🎥 [Video Lecture](https://www.youtube.com/watch?v=ZeZhhZWVe88)
+| Resource Type | Link                                                                  |
+| ------------- | --------------------------------------------------------------------- |
+| 🎥 Video      | [Random Forest Tutorial](https://www.youtube.com/watch?v=ZeZhhZWVe88) |
 
 ---
 
 ## Artificial Neural Network (ANN)
 
-* 🎥 [Video Playlist](https://www.youtube.com/watch?v=YcAcK8lFk3s&list=PLncy2sD7w4YpZ3Ebo5XjZAOo6Vjfza1Kb)
+| Resource Type     | Link                                                                                                                   |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 🎥 Video Playlist | [Artificial Neural Network (ANN)](https://www.youtube.com/watch?v=YcAcK8lFk3s&list=PLncy2sD7w4YpZ3Ebo5XjZAOo6Vjfza1Kb) |
 
 ---
 
 ## Introduction to Neural Networks
 
-* 📘 [Beginner Guide](https://www.geeksforgeeks.org/deep-learning/neural-networks-a-beginners-guide/)
+| Resource Type | Link                                                                                                                  |
+| ------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 📘 Theory     | [Neural Networks: A Beginner's Guide](https://www.geeksforgeeks.org/deep-learning/neural-networks-a-beginners-guide/) |
 
 ---
 
-# ⭐ Final Note
 
-This repository is designed as a structured learning support system for **CSE 21 Batch Machine Learning students**, ensuring easy access to all syllabus materials, tutorials, and practice resources from a single place.
+## 🙏 Acknowledgement
+
+This repository is maintained to support learning and academic growth of the CSE 21 Batch.
+
+If it helps you in any way, then that is the real success of this effort.
+
+---
+
+### ✍️ Maintained by
+
+**Ashikur Rahman**  
+_CSE 21 Batch_
 
