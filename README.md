@@ -1,12 +1,10 @@
-# 🤖 Machine Learning Course Resource Hub
+# 🤖 Machine Learning Resource Hub
 
-Welcome to the Machine Learning Resource Repository.
-
-This repository contains all lecture materials, theory notes, practice resources, and video tutorials organized class-wise.
+> A centralized collection of Machine Learning course materials, theory notes, tutorials, videos, and practice resources.
 
 ---
 
-## 📚 Table of Contents
+## 📚 Course Navigation
 
 * [ML Class 01-06](#-ml-class-01-06)
 * [ML Class 07](#-ml-class-07)
@@ -18,138 +16,124 @@ This repository contains all lecture materials, theory notes, practice resources
 
 # 📖 ML Class 01-06
 
-### Course Materials
+### 📁 Course Materials
 
-* 📁 [All Materials with Selected Topics](https://drive.google.com/drive/folders/1__U6PilW4hy7FFYH34xSkTLaKvuNQJP_?usp=sharing)
+* [All Materials with Selected Topics](https://drive.google.com/drive/folders/1__U6PilW4hy7FFYH34xSkTLaKvuNQJP_?usp=sharing)
 
 ---
 
 # 📖 ML Class 07
 
-<details>
-<summary><b>Machine Learning Algorithms</b></summary>
+## Machine Learning Algorithms
 
-* 📘 [Machine Learning Algorithms Overview](https://www.geeksforgeeks.org/machine-learning/machine-learning-algorithms/)
+| Resource Type | Link                                                                                                                        |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 📘 Theory     | [Machine Learning Algorithms (Basic Overview)](https://www.geeksforgeeks.org/machine-learning/machine-learning-algorithms/) |
 
-</details>
+---
 
-<details>
-<summary><b>K-Nearest Neighbor (KNN)</b></summary>
+## K-Nearest Neighbor (KNN)
 
-* 🎥 [Video Tutorial](https://www.youtube.com/watch?v=97P-223p6K0)
+| Resource Type | Link                                                                  |
+| ------------- | --------------------------------------------------------------------- |
+| 🎥 Video      | [KNN Algorithm Tutorial](https://www.youtube.com/watch?v=97P-223p6K0) |
 
-</details>
+---
 
-<details>
-<summary><b>Support Vector Machine (SVM)</b></summary>
+## Support Vector Machine (SVM)
 
-* 🎥 [Video Tutorial](https://www.youtube.com/watch?v=H9yACitf-KM)
+| Resource Type | Link                                                        |
+| ------------- | ----------------------------------------------------------- |
+| 🎥 Video      | [SVM Tutorial](https://www.youtube.com/watch?v=H9yACitf-KM) |
 
-</details>
+---
 
-<details>
-<summary><b>Logistic Regression</b></summary>
+## Logistic Regression
 
-* 📘 [Theory Overview](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/)
-* 🎥 [Video Tutorial](https://www.youtube.com/watch?v=GTKBkaEsLCg)
-
-</details>
+| Resource Type | Link                                                                                                              |
+| ------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 📘 Theory     | [Logistic Regression Overview](https://www.geeksforgeeks.org/machine-learning/understanding-logistic-regression/) |
+| 🎥 Video      | [Logistic Regression Tutorial](https://www.youtube.com/watch?v=GTKBkaEsLCg)                                       |
 
 ---
 
 # 📖 ML Class 08
 
-<details>
-<summary><b>K-Means Clustering</b></summary>
+## K-Means Clustering
 
-* 🎥 [Video Tutorial](https://www.youtube.com/watch?v=oQ5yRkoBN0M)
-
-</details>
+| Resource Type | Link                                                                       |
+| ------------- | -------------------------------------------------------------------------- |
+| 🎥 Video      | [K-Means Clustering Tutorial](https://www.youtube.com/watch?v=oQ5yRkoBN0M) |
 
 ---
 
 # 📖 ML Class 09
 
-<details>
-<summary><b>Pattern Recognition</b></summary>
+## Pattern Recognition
 
-* 📄 Pattern Recognition Sheet (Available in Drive Folder)
-* 📝 [Practice Problems](https://byjus.com/maths/patterns-questions/)
-* 📘 [Theory, Steps, Advantages, Disadvantages & Applications](https://www.geeksforgeeks.org/machine-learning/pattern-recognition-introduction/)
-
-</details>
+| Resource Type        | Link                                                                                                                                                                 |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📄 Sheet             | Available in the Drive Folder                                                                                                                                        |
+| 📝 Practice Problems | [Pattern Recognition Problems (BYJU'S)](https://byjus.com/maths/patterns-questions/)                                                                                 |
+| 📘 Theory            | [Pattern Recognition: Definition, Steps, Advantages, Disadvantages & Applications](https://www.geeksforgeeks.org/machine-learning/pattern-recognition-introduction/) |
 
 ---
 
 # 📖 ML Class 10
 
-<details>
-<summary><b>DBSCAN Clustering</b></summary>
+## DBSCAN Clustering
 
-* 📘 [Theory](https://www.geeksforgeeks.org/machine-learning/dbscan-clustering-in-ml-density-based-clustering/)
-* 🎥 [Solved Example Video](https://www.youtube.com/watch?v=WxXnDMrC8TM)
-
-</details>
-
-<details>
-<summary><b>Apriori Algorithm</b></summary>
-
-* 📘 [Theory](https://www.geeksforgeeks.org/machine-learning/apriori-algorithm/)
-* 🎥 [Mathematical Example Video](https://www.youtube.com/watch?v=QEqBTLB-tM4)
-
-</details>
-
-<details>
-<summary><b>FP Growth Algorithm</b></summary>
-
-* 📘 [Theory](https://www.geeksforgeeks.org/machine-learning/frequent-pattern-growth-algorithm/)
-* 🎥 [Example Video](https://www.youtube.com/watch?v=iwU0uzT7Y9U)
-
-</details>
-
-<details>
-<summary><b>Random Forest</b></summary>
-
-* 🎥 [Video Tutorial](https://www.youtube.com/watch?v=ZeZhhZWVe88)
-
-</details>
-
-<details>
-<summary><b>Artificial Neural Network (ANN)</b></summary>
-
-* 🎥 [Video Tutorial](https://www.youtube.com/watch?v=YcAcK8lFk3s&list=PLncy2sD7w4YpZ3Ebo5XjZAOo6Vjfza1Kb)
-
-</details>
-
-<details>
-<summary><b>Introduction to Neural Networks</b></summary>
-
-* 📘 [Beginner's Guide to Neural Networks](https://www.geeksforgeeks.org/deep-learning/neural-networks-a-beginners-guide/)
-
-</details>
+| Resource Type | Link                                                                                                                  |
+| ------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 📘 Theory     | [DBSCAN Clustering](https://www.geeksforgeeks.org/machine-learning/dbscan-clustering-in-ml-density-based-clustering/) |
+| 🎥 Video      | [DBSCAN Problem Solved](https://www.youtube.com/watch?v=WxXnDMrC8TM)                                                  |
 
 ---
 
-## 🎯 Recommended Learning Order
+## Apriori Algorithm
 
-1. Machine Learning Algorithms Overview
-2. KNN
-3. Logistic Regression
-4. SVM
-5. K-Means Clustering
-6. Pattern Recognition
-7. DBSCAN
-8. Apriori Algorithm
-9. FP-Growth Algorithm
-10. Random Forest
-11. Artificial Neural Networks
-12. Neural Network Fundamentals
+| Resource Type | Link                                                                                   |
+| ------------- | -------------------------------------------------------------------------------------- |
+| 📘 Theory     | [Apriori Algorithm](https://www.geeksforgeeks.org/machine-learning/apriori-algorithm/) |
+| 🎥 Video      | [Apriori Algorithm Math Solved](https://www.youtube.com/watch?v=QEqBTLB-tM4)           |
 
 ---
 
-### ⭐ Maintained For
+## FP-Growth Algorithm
 
-Machine Learning Course Resources
-Department of Computer Science & Engineering
-By
-Ashik Bin Aziz
+| Resource Type | Link                                                                                                     |
+| ------------- | -------------------------------------------------------------------------------------------------------- |
+| 📘 Theory     | [FP-Growth Algorithm](https://www.geeksforgeeks.org/machine-learning/frequent-pattern-growth-algorithm/) |
+| 🎥 Video      | [FP-Growth Algorithm Example](https://www.youtube.com/watch?v=iwU0uzT7Y9U)                               |
+
+---
+
+## Random Forest
+
+| Resource Type | Link                                                                  |
+| ------------- | --------------------------------------------------------------------- |
+| 🎥 Video      | [Random Forest Tutorial](https://www.youtube.com/watch?v=ZeZhhZWVe88) |
+
+---
+
+## Artificial Neural Network (ANN)
+
+| Resource Type     | Link                                                                                                                   |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| 🎥 Video Playlist | [Artificial Neural Network (ANN)](https://www.youtube.com/watch?v=YcAcK8lFk3s&list=PLncy2sD7w4YpZ3Ebo5XjZAOo6Vjfza1Kb) |
+
+---
+
+## Introduction to Neural Networks
+
+| Resource Type | Link                                                                                                                  |
+| ------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 📘 Theory     | [Neural Networks: A Beginner's Guide](https://www.geeksforgeeks.org/deep-learning/neural-networks-a-beginners-guide/) |
+
+---
+
+
+
+### ⭐ Repository Purpose
+
+This repository serves as a centralized learning hub for Machine Learning course materials, helping students quickly access theory, videos, practice resources, and supplementary notes from a single location.
